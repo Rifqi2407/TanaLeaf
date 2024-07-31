@@ -1,0 +1,5 @@
+0 BercakHitam
+1 BukanDaunAnggur
+2 DaunMenguning
+3 DaunSehat
+4 KaratDaun
